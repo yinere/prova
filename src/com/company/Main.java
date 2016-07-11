@@ -6,11 +6,12 @@ public class Main {
 
         int i;
 
-        if(true)
-              i = 0;
+        if (true)
+            i = 0;
         else
-            i=1;
+            i = 1;
 
-	// write your code here
+
+        // write your code here
     }
 }
