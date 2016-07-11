@@ -12,6 +12,8 @@ public class Main {
             i = 1;
 
 
+        i++;
+
         // write your code here
     }
 }
