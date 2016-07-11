@@ -8,6 +8,9 @@ public class Main {
 
         if(true)
               i = 0;
+        else
+            i=1;
+
 	// write your code here
     }
 }
